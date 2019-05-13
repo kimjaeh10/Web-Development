@@ -5,3 +5,5 @@ This repository will store everything that I've learned about web development.
 1. [First Experience with HTML](https://github.com/kimjaeh10/Web-Development/tree/master/Simple%20Blog)
 2. [First Experience with CSS](https://github.com/kimjaeh10/Web-Development/tree/master/Intro%20to%20CSS)
 3. [Practice #1 - Simple Basic Responsive Web](https://github.com/kimjaeh10/Web-Development/tree/master/myWebsite)
+4. [CSS Grid Layout - Powerful tool for designing](https://github.com/kimjaeh10/Web-Development/tree/master/CSS%20Grid%20Layout)
+
