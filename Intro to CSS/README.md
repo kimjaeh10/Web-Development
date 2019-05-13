@@ -28,8 +28,8 @@ Source: www.w3.org
 * Initial
 
 ### Web Design
-* Setting a color of background and text
-* Changing a font family and size
-* Adding a decoration into the font
-* Importing image files to look better
-* Making a website responsive
+* Set a color of background and text
+* Changed a font family and size
+* Added a decoration into the font
+* Imported image files to look better
+* Made a website responsive
