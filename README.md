@@ -1,5 +1,5 @@
 # Web-Development
-This repository will store everything that I've learned about web development.
+This repository will store everything that I've learned about web development and will have relative projects too.
 
 ## Journey to learn
 1. [First Experience with HTML](https://github.com/kimjaeh10/Web-Development/tree/master/Simple%20Blog)
